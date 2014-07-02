@@ -20,6 +20,7 @@
 		388CDF381963AE5800EBB598 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 388CDF361963AE5800EBB598 /* InfoPlist.strings */; };
 		388CDF3A1963AE5800EBB598 /* excerseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 388CDF391963AE5800EBB598 /* excerseTests.m */; };
 		388CDF451963AE9500EBB598 /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 388CDF441963AE9500EBB598 /* MyViewController.m */; };
+		388CDF481963B37C00EBB598 /* dddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 388CDF471963B37C00EBB598 /* dddViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		388CDF391963AE5800EBB598 /* excerseTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = excerseTests.m; sourceTree = "<group>"; };
 		388CDF431963AE9500EBB598 /* MyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
 		388CDF441963AE9500EBB598 /* MyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
+		388CDF461963B37C00EBB598 /* dddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dddViewController.h; sourceTree = "<group>"; };
+		388CDF471963B37C00EBB598 /* dddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = dddViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +117,8 @@
 				388CDF241963AE5800EBB598 /* AppDelegate.m */,
 				388CDF431963AE9500EBB598 /* MyViewController.h */,
 				388CDF441963AE9500EBB598 /* MyViewController.m */,
+				388CDF461963B37C00EBB598 /* dddViewController.h */,
+				388CDF471963B37C00EBB598 /* dddViewController.m */,
 				388CDF261963AE5800EBB598 /* Images.xcassets */,
 				388CDF1B1963AE5800EBB598 /* Supporting Files */,
 			);
@@ -245,6 +250,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				388CDF451963AE9500EBB598 /* MyViewController.m in Sources */,
+				388CDF481963B37C00EBB598 /* dddViewController.m in Sources */,
 				388CDF251963AE5800EBB598 /* AppDelegate.m in Sources */,
 				388CDF211963AE5800EBB598 /* main.m in Sources */,
 			);
